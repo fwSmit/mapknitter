@@ -76,7 +76,7 @@ http://youtu.be/iGYGpS8rZMY (may be slightly out of date, but gives an overview)
 Prerequisite instructions are for an Ubuntu/Debian system, and may vary for MacOS / Linux. 
 
 
-**MySQL**
+_MySQL_
 
 MacOS and Linux users, please reference [MYSQL.md](MYSQL.md) instead
 
@@ -100,7 +100,7 @@ Application-specific dependencies:
 ==================
 
 
-**Ruby version manager** - **RVM / Rbenv**
+_Ruby version manager - RVM / Rbenv_
 
 This is for RVM, but the alternative, Rbenv, also works (instructions not listed here). Don't install RVM if you already have Rbenv!
 
@@ -121,7 +121,7 @@ Then, use RVM to install version 2.4.6 of Ruby:
 
 ==================
 
-**Package manager - Npm and Bower** 
+_Package manager - Npm & Bower_
 
 You'll need Bower which is available through npm. To install npm, you can run:
   ```Bash
