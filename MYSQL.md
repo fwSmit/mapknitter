@@ -78,7 +78,7 @@ $ mysql -u <username> -p <password>
 
 **Permission issues above?**
 
-- **note these commands also fix the error: <blockquote>Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)**</blockquote>
+- **note this workflow also fixes the error: <blockquote>Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)**</blockquote>
 
 ```Bash
 $ mysql.server stop
