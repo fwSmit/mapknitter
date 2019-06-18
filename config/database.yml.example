@@ -6,15 +6,18 @@ development:
   <<: *default
   username: 
   password: 
-  database: mapknitter-dev
+  database: mapknitter
 
 production:
   <<: *default
+  host: db
   username: mapknitter
   password: mapknitter
   database: mapknitter
 
 test:
   <<: *default
-  username: root
-  database: mapknitter-test
+  username: mapknitter
+  password: mapknitter
+  host: db
+  database: mapknitter
